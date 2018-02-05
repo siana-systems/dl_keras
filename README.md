@@ -1,7 +1,7 @@
 # dl_keras
 Deep Learning exploration with Keras...
 
-#Installation
+# Installation
 We use a Docker box to run the development environment...
 
 So first, install docker on your machine (Linux): 
@@ -18,7 +18,7 @@ Clone the repo in an appropriate working directory:
 
 	git clone https://github.com/siana-systems/dl_keras.git
 
-#Getting Started
+# Getting Started
 The root of the siana repo contains a small bash/shortcut to start the docker with the recommended options:
 
 cd to the working directly...
