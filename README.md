@@ -1,6 +1,8 @@
 # dl_keras
 Deep Learning exploration with Keras...
 
+** OBSOLETE **
+
 # Installation
 We use a Docker box to run the development environment...
 
